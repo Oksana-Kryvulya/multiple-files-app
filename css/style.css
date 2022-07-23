@@ -1,0 +1,25 @@
+body {
+  background: bisque;
+}
+h1 {
+  text-align: center;
+  color: blueviolet;
+}
+p {
+  text-align: center;
+  margin: 40px;
+}
+.links {
+  text-align: center;
+  margin-top: 20px;
+}
+a {
+  font-size: 18px;
+  margin: 0 20px;
+}
+img {
+  display: block;
+  max-width: 800px;
+  margin: 0 auto;
+  border-radius: 8px;
+}
